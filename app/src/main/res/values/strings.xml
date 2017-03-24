@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MuvitCustomer</string>
+    <string name="Oops">Oops</string>
+    <string name="error_message">An Error occurred. please try again&#8230;</string>
+</resources>
